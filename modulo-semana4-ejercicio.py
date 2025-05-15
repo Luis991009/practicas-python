@@ -1,0 +1,11 @@
+nombre= input ("introduce tu nombre: ")
+apellido= input ("introduce tu apellido: ")
+edad= int (input ("introduce tu edad: ")) 
+correo= input ("Introduce tu correo electronico:")
+telefono= input ("Introduce telefono: ")
+
+print ("Nombre " + nombre)
+print ("Apellido " + apellido)
+print ("Tengo " + str (edad) + " años")
+print ("correo " + correo)
+print ("telefono " + telefono)
