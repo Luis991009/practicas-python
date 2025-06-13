@@ -8,3 +8,10 @@ print (colores_numeros [2])
 print (colores_numeros [3])
 print (colores_numeros [4])
 print (colores_numeros [5])
+
+# 5 cosas en ver 
+acciones= ("Ventilador", "Tasa", "Computador","pantalla", "Silla")
+oir = ("Gatos", "Personas", "Respiraciones", "Ruidos", "Aire")
+Tocar = ("Silla", "Taza", "Mesa", "Comida")
+oler = ("Cafe", "Pan", "Té")
+sabor = ("Cafe")
